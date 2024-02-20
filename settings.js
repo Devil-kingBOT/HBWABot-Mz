@@ -18,7 +18,7 @@ global.location = "Pakistan, Mizoram, Aizawl" // I awmna hmun daha
 global.botname = "Devilking Mizo" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
-global.creator = "918416093656@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
+global.creator = "923107058820@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
 global.ownerNumber = ["923107058820@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
 global.prefa = ['','!','.','#','/']
