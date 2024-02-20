@@ -15,8 +15,8 @@ global.owner = ['923107058820'] // I phone number in thlak rawh
 global.ownernumber = '923107058820' // I phone number in thlak rawh
 global.ownername = "Devil" // I hming dah tel bawk la
 global.location = "Pakistan, Mizoram, Aizawl" // I awmna hmun daha
-global.botname = "Devilking Mizo" // I bot hming tur dah la
-global.ownerweb = "https://youtube.com/@HBMods_Channel"
+global.botname = "Devil king" // I bot hming tur dah la
+global.ownerweb = "https://youtube.com/DEVIL-KING-BOT"
 global.themeemoji = '🤖'
 global.creator = "923107058820@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
